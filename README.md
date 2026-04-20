@@ -1,4 +1,4 @@
-# Hi, I'm Othmane Mrichcha 😊
+# Hi, I'm Othmane Mrichcha 👋
 
 Cybersecurity student focused on offensive security, automation, and practical security tooling.
 
