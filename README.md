@@ -5,6 +5,6 @@ Cybersecurity student focused on offensive security, automation, and practical s
 ## What I work on
 - Pentesting labs and security writeups
 - Active Directory and red team tooling
-- Python automation and backend projects
+- Python automation and scripting
 - AI/ML projects applied to security 
 
