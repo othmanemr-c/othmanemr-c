@@ -1,4 +1,4 @@
-<h1 align="center">Othmane — Offensive Security / Red Team</h1>
+<h1 align="center">Othmane : Offensive Security </h1>
 
 <p align="center">
   <em>Active Directory · Hybrid Identity (Entra ID / Azure) · Cyber Threat Intelligence · Network Pivoting</em>
@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/othmane-mrichcha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="<htb-profile-url>"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
-  <a href="mailto:<email>"><img src="https://img.shields.io/badge/Contact-Email-informational?style=flat" alt="Email"></a>
+  <a href="https://app.hackthebox.com/users/3272941?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
+  <a href="mailto:othmane.mr.pro@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-informational?style=flat" alt="Email"></a>
 </p>
 
 ---
 
 ### Profile
 
-Offensive security practitioner specialized in **Active Directory attack chains**, **hybrid identity exploitation (Entra ID / Azure)**, and **cyber threat intelligence**. I combine adversary-emulation depth with an intelligence-driven approach — mapping techniques to real-world threat actors and translating findings into actionable, defensible outcomes.
+Offensive security practitioner specialized in **Active Directory attack chains**, **hybrid identity exploitation (Entra ID / Azure)**, and **cyber threat intelligence**.
 
 Engagements are conducted strictly within authorized, legal scopes, with attention to OPSEC, stealth, and audit traceability.
 
