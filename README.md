@@ -42,7 +42,14 @@ Focused on the on-prem–to-cloud identity boundary, where the most impactful mo
 - **Tooling** — AADInternals · ROADtools · AzureHound
 
 ---
+### ⚙️ Reverse Engineering & Binary Exploitation
 
+Low-level work underpinning both malware analysis and exploit development.
+
+- **Static & dynamic analysis** — disassembly, control-flow reconstruction, and runtime debugging of native binaries
+- **x86-64 internals** — assembly, calling conventions, and memory layout as the foundation for shellcode and exploit primitives
+- **Binary exploitation** — memory-corruption fundamentals and mitigation-aware primitive development
+- **Tooling** — Ghidra · GDB (pwndbg) · radare2 · pwntools
 ### 🛰️ Cyber Threat Intelligence
 
 Intelligence-led approach connecting offensive activity to observed adversary behavior.
