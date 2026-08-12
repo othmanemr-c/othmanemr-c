@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="<linkedin-url>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/othmane-mrichcha/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="<htb-profile-url>"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="Hack The Box"></a>
   <a href="mailto:<email>"><img src="https://img.shields.io/badge/Contact-Email-informational?style=flat" alt="Email"></a>
 </p>
