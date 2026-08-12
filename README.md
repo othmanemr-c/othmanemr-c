@@ -1,4 +1,4 @@
-<h1 align="center">Othmane : Offensive Security </h1>
+<h1 align="center">Othmane - Offensive Security </h1>
 
 <p align="center">
   <em>Active Directory · Hybrid Identity (Entra ID / Azure) · Cyber Threat Intelligence · Network Pivoting</em>
