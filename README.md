@@ -1,7 +1,7 @@
 <h1 align="center">Othmane — Offensive Security / Red Team</h1>
 
 <p align="center">
-  <em>Active Directory · Hybrid Identity (Entra ID / Azure) · Network Pivoting · Credential Abuse</em>
+  <em>Active Directory · Hybrid Identity (Entra ID / Azure) · Cyber Threat Intelligence · Network Pivoting</em>
 </p>
 
 <p align="center">
@@ -12,49 +12,52 @@
 
 ---
 
-### whoami
+### Profile
 
-Offensive security practitioner focused on **Active Directory attack chains**, **hybrid identity (Entra ID / Azure)** exploitation, **network pivoting**, and **credential-based attacks**. I build my own tooling, break things in the lab, and document what actually works on real engagements.
+Offensive security practitioner specialized in **Active Directory attack chains**, **hybrid identity exploitation (Entra ID / Azure)**, and **cyber threat intelligence**. I combine adversary-emulation depth with an intelligence-driven approach — mapping techniques to real-world threat actors and translating findings into actionable, defensible outcomes.
 
-- 🎯 Currently pursuing **HTB CPTS** — next target **CRTO**
-- 🧪 Running an isolated AD lab on **Proxmox** (DC + pivot chain), attacking from **Exegol**
-- 🧠 Deepening low-level: **x86-64 assembly**, reverse engineering, binary exploitation (pwn.college)
-- 🌍 Work in **FR / EN**
+Engagements are conducted strictly within authorized, legal scopes, with attention to OPSEC, stealth, and audit traceability.
 
 ---
 
-### 🛠️ Tooling I've built
+### Core Competencies
 
-| Project | What it does |
-|---|---|
-| **[sprayctl](<repo-url>)** | Multi-protocol credential-spraying tool with adaptive lockout management, rate limiting + jitter, SQLite backend, and connectors for SMB / LDAP / WinRM / RDP / SSH / O365 / Entra ID |
-| **[cloud-pentest-framework](<repo-url>)** | Offensive framework targeting Entra ID / Azure hybrid-identity techniques |
-| **[stealer-analysis](<repo-url>)** | Infostealer & ransomware analysis with YARA / Sigma detection rules |
+**Active Directory & Windows**
+Full attack-chain execution — enumeration, credential abuse, lateral movement, privilege escalation, and domain dominance across on-prem and hybrid environments.
 
----
+**Network Pivoting & Post-Exploitation**
+Multi-hop routing through segmented networks, proxying external tooling into internal ranges, and reliable tunneling in constrained environments.
 
-### ⚔️ Arsenal
-
-**AD / Windows** — BloodHound · Impacket · NetExec · Rubeus · Certipy · Mimikatz · BloodyAD · PowerView
-**Cloud / Identity** — AADInternals · ROADtools · AzureHound
-**Pivoting** — Ligolo-ng · Chisel · sshuttle · Proxychains
-**Web** — Burp Suite Pro · ffuf · SQLMap · Nuclei · Dalfox · jwt_tool
-**Forensics / CTI** — Volatility 3 · YARA · Sigma · OpenCTI · MISP
+**Web Application Security**
+Structured testing across injection, authentication, access control, and server-side request forgery classes.
 
 ---
 
-### 🏆 CTF
+### ☁️ Cloud & Hybrid Identity
 
-- 🥇 **8th place** — INPT CTF
-- 🏅 **Top 10** — Cyberdune
+Focused on the on-prem–to-cloud identity boundary, where the most impactful modern attack paths live.
+
+- **Entra ID / Azure AD** — enumeration, token abuse, conditional-access analysis, and identity-based privilege escalation
+- **Hybrid identity** — abuse of synchronization trust (AD Connect) and cross-boundary credential material
+- **Tooling** — AADInternals · ROADtools · AzureHound
 
 ---
 
-### 📊 Stats
+### 🛰️ Cyber Threat Intelligence
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<github-handle>&show_icons=true&hide_border=true&theme=dark" height="150" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<github-handle>&layout=compact&hide_border=true&theme=dark" height="150" alt="top langs">
-</p>
+Intelligence-led approach connecting offensive activity to observed adversary behavior.
 
-<p align="center"><sub>All work performed in authorized, legal contexts. For educational and defensive purposes.</sub></p>
+- **Malware analysis** — infostealer and ransomware triage, IOC extraction, TTP mapping
+- **Detection engineering** — authoring **YARA** and **Sigma** rules from analysis findings
+- **Platforms** — OpenCTI · MISP · Volatility 3
+
+---
+
+### Achievements
+
+- **8th place** — INPT CTF
+- **Top 10** — Cyberdune CTF
+
+---
+
+<p align="center"><sub>All activity performed in authorized, legal contexts — for professional, educational, and defensive purposes.</sub></p>
